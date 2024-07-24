@@ -6,7 +6,7 @@ I lost my dog in Minecraft. Can you find him? The name of the dog wrapped in `i
 
 The dog's name is 16 hex characters, anything else is not correct.
 
-### Attachments: [playful-puppy.zip](playful-puppy.zip)
+### Attachments: [playful-puppy.zip](https://cybersharing.net/s/1b3a43db9cb73c3d)
 
 ## **Challenge Overview** 
 
